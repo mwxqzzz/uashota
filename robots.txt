@@ -1,0 +1,7 @@
+# robots.txt для https://uashota.netlify.app
+# Сайт открыт для всех поисковых роботов (Яндекс, Google, Bing и других).
+User-agent: *
+Allow: /
+
+# Карта сайта: роботы находят её здесь, поэтому адрес должен совпадать с реальным доменом.
+Sitemap: https://uashota.netlify.app/sitemap.xml
